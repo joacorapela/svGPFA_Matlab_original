@@ -1,0 +1,67 @@
+syncData
+
+# exclude scripts/figures/
+scripts/figures/
+
+# exclude original/
+original/
+
+# exclude scripts/old
+scripts/old/
+
+# exclude results
+results/
+
+# exclude vim auxiliary files
+*.swp
+
+# exclude nots
+notes/
+
+# exclude mat files
+*.mat
+
+# eclude vim auxiliary files
+*.swp
+
+# Windows default autosave extension
+*.asv
+
+# vim backup files
+*~
+
+# Compiled MEX binaries (all platforms)
+*.mex*
+
+# Packaged app and toolbox files
+*.mlappinstall
+*.mltbx
+
+# Generated helpsearch folders
+helpsearch*/
+
+# Simulink code generation folders
+slprj/
+sccprj/
+
+# Matlab code generation folders
+codegen/
+
+# Simulink autosave extension
+*.autosave
+
+# Simulink cache files
+*.slxc
+
+# Octave session info
+octave-workspace
+
+# nfs temporary files
+.nfs*
+
+# figures
+working/scripts/figures/*
+
+# old
+working/scripts/old/*
+
